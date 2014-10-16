@@ -33,9 +33,9 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Lima DevFest OK Google<typeout> 2014"
+heroTitle: "Lima DevFest okey Google   <typeout> "
 eventDate: "08 Noviembre, 2014"
-typeoutTextValues: '"", "Go LimaDevFest", "Obten una entrada"'
+typeoutTextValues: '"", "Ir al LimaDevFest", "Obten una entrada"'
 typeoutFallback: "Season"
 
 # About Block
