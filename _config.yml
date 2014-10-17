@@ -6,10 +6,10 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Season 2014"
-email: "correo@gmail.com"
+email: "gdg.lima@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/limadevfest"
-url: "http://gdgperu.github.io"
+baseurl: ""
+url: "http://limadevfest"
 permalink: "/blog/:title"
 
 
