@@ -78,24 +78,26 @@
                         });
                     }
                 });
-                var rockstarSpeakers = [
-                    {% for speaker in site.data.speakers %}
-                        {% if speaker.rockstar %}
-                        {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
-                        {% endif %}
+
+                var organizersGDG = [
+                    {% for organizer in site.data.organizerGDG %}
+                       {name : "{{ organizer.name }}" , image: "{{ site.baseurl | append: '/img/organizersGDG/' | append: organizer.thumbnailUrl }}"}
+                       {% if forloop.index != forloop.length %},{% endif %}
                     {% endfor %}
                 ];
-                rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
-                if(rockstarSpeakers.length > 0) {
+
+
+                organizersGDG.sort(function() {return 0.5 - Math.random()});
+                if(organizersGDG.length > 0) {
                     var animationDelay = 1500,
-                        count = {{ site.rockstarSpeakersCount }},
+                        count = {{ site.organizerGDGCount}},
                         colWidth = 12/count;
                     for(i=0; i<count; i++) {
                         var clearfix = '<div class="clearfix visible-xs"></div>';
                         if ((i)%2 != 0) {
                             clearfix = ""
                         }
-                        $('#rockstar-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-6 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'"><div class="rockstar-speaker"><div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(' + rockstarSpeakers[i].image + ')"></div><div class="name">' + rockstarSpeakers[i].name + '</div><div class="sub">' + rockstarSpeakers[i].company + '</div></div></div>' + clearfix);
+                        $('#organizer-gdg-title').after('<div class="col-md-'+ colWidth +' col-xs-6 organizer-gdg-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'"><div class="organizer-gdg"><div class="flow-img img-circle organizer-gdg-img" style="background-image: url(' + organizersGDG[i].image + ')"></div><div class="name">' + organizersGDG[i].name + '</div></div></div>' + clearfix);
                         animationDelay -= 500;
                     }
                 }
@@ -104,8 +106,7 @@
             var googleMaps = 'logistics',
                 eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates }}),
                 centerMap = new google.maps.LatLng({{ site.logisticsMapCenterCoordinates }}),
-                mobileCenterMap = new google.maps.LatLng({{ site.logisticsMapMobileCenterCoordinates }}),
-                icon = '{{ site.baseurl }}/img/other/map-marker.svg';
+                mobileCenterMap = ne 
         {% elsif page.permalink == '/hackathon/' %}
             if ($(window).width() > 767) {
                 var googleMaps = 'hackathon',

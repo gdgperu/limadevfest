@@ -59,11 +59,16 @@ statisticBlock:
 # Latest News Block
 latestNewsTitle: "Ultimas novedades"
 
-# Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 2
-rockstarSpeakersTitle: "Expositores"
-rockstarSpeakersButtonText: "+expositores"
+
+#Organizer GDG
+organizerGDGImage : "rockstar-speakers.jpg"
+organizerGDGCount : 3
+organizerGDGTitle : "Gracias al apoyo de los capitulos locales"
+organizerGDGButtonText : "+siganos en nuestras redes"
+
+
+
+
 
 # Location Block
 locationBlockTitle: "Ubicación"
