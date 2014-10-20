@@ -6,10 +6,10 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Season 2014"
-email: "gdg.lima@gmail.com"
+email: "correo@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: ""
-url: "http://limadevfest.com"
+baseurl: "/limadevfest"
+url: "http://gdgperu.github.io"
 permalink: "/blog/:title"
 
 
@@ -63,7 +63,7 @@ latestNewsTitle: "Ultimas novedades"
 #Organizer GDG
 organizerGDGImage : "rockstar-speakers.jpg"
 organizerGDGCount : 3
-organizerGDGTitle : "Gracias al apoyo de los capitulos locales"
+organizerGDGTitle : "Gracias al apoyo de las comunidades"
 organizerGDGButtonText : "+siganos en nuestras redes"
 
 
@@ -98,7 +98,7 @@ venueFeatures: ["3 salones", "", ""]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "Interactua con nosotros?"
+tweetsFeedTitle: ¡Interactúa con nosotros!
 twitterHashTag: "limadevfest"
 
 # Partners Block
@@ -142,7 +142,7 @@ footerBlocks:
  -
   title: "Contacto"
   links:
-   - {link: "mailto:gdg.lima@gmail.com", text: "gdg.lima@gmail.com"}
+   - {link: "mailto:correo@gmail.com", text: "correo@gmail.com"}
 
 # Blog
 blogTitle: "Novedades"
