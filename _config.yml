@@ -6,10 +6,10 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Season 2014"
-email: "correo@gmail.com"
+email: "gdg.lima@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/limadevfest"
-url: "http://gdgperu.github.io"
+baseurl: ""
+url: "http://limadevfest.com""
 permalink: "/blog/:title"
 
 
@@ -142,7 +142,7 @@ footerBlocks:
  -
   title: "Contacto"
   links:
-   - {link: "mailto:correo@gmail.com", text: "correo@gmail.com"}
+   - {link: "mailto:gdg.lima@gmail.com", text: "gdg.lima@gmail.com"}
 
 # Blog
 blogTitle: "Novedades"
