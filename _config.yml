@@ -9,7 +9,7 @@ title: "GDG DevFest Season 2014"
 email: "gdg.lima@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
-url: "http://limadevfest.com""
+url: "http://limadevfest.com"
 permalink: "/blog/:title"
 
 
