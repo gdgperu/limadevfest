@@ -11,6 +11,9 @@ description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
 url: "http://limadevfest.com"
 permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-55838618-1"
+googleAnalyticsSiteUrl: "limadevfest.com"
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 
 
