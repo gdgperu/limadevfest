@@ -31,7 +31,9 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
+ - {permalink: "/blog/", text: "blog"}
  - {permalink: "/speakers/", text: "Expositores"}
+ - {permalink: "/schedule/", text: "Agenda"}
 rightNavigationButtons:
  - {link: "http://goo.gl/TywaOz", text: "Obten tu entrada"}
 
@@ -54,9 +56,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "18", specialCharacter: "+", info: "horas", detail: "de tecnologia google"}
+ - {count: "10", specialCharacter: "+", info: "horas", detail: "de tecnologia google"}
  - {count: "10", specialCharacter: "+", info: "expositores", detail: "de diferentes ciudades"}
- - {count: "3", specialCharacter: "", info: "sesiones", detail: "en paralelo"}
+ - {count: "2", specialCharacter: "", info: "sesiones", detail: "en paralelo"}
 
 # Latest News Block
 latestNewsTitle: "Ultimas novedades"
@@ -149,10 +151,15 @@ footerBlocks:
 # Blog
 blogTitle: "Novedades"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "limadevfest"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
+speakerTitle: "#limadevfest"
+speakerRows:
+ - {title: "Programa", image: "hackathon-2.png", details: "Estamos construyendo el programa para tu máximo beneficio. Gracias por la espera #limadevfest."}
+
+
 
 # Team Block
 teamBlockTitle: "Acerca de nosotros"

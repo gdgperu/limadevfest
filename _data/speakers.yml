@@ -1,80 +1,84 @@
+
 - 
   id: 1
-  name: "Diego"
-  surname: "Urbina"
-  company: "GDG Lima"
-  title: "Desarrollador - Manager"
-  bio: '<p>Desarrollador Android. Especialista en Bases difusas</p>'
-  thumbnailUrl: durbina_gdglima.jpg
+  name: "Nathaly"
+  surname: "Alarcon"
+  company: "GDG Women Lima"
+  title: ""
+  bio: ""
+  thumbnailUrl: nalarcon.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DiegoUrbinaLopez/posts"}
-    - {name: "twitter", link: "https://twitter.com/AlevanDie"}
-- 
-  id: 2
-  name: "Eduardo"
-  surname: "Medina"
-  company: "GDGLima"
-  title: "Android Developer"
-  bio: "<p>Eduardo, especialista en desarrolllo de juegos, mobile y aplicaciones interactivas."
-  thumbnailUrl: emedina.png
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+EduardoJoseMedinaAlfaro/posts"}
-    - {name: "twitter", link: "https://twitter.com/eduardomedina"}
+    - {name: "google-plus", link: "https://plus.google.com/+NathalyAlarconTorrico/posts"}
+    - {name: "twitter", link: "https://twitter.com/NathalyAlarconT"}
+
+
 
 
 - 
-  id: 3
-  name: "Hansy"
-  surname: "Schmitt"
-  company: "GDG Lima"
-  title: "Hacksy"
-  bio: "Desarrollador,miembro del GDGLima, desarrollador en Cloud y todo lo que se puedea programar xD"
-  thumbnailUrl: hcamacho.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+HansySchmitt1/posts"}
-    - {name: "twitter", link: "https://twitter.com/randomsy"}
-
-
-- 
-  id: 4
-  name: "Armando"
-  surname: "Picon"
-  company: "GDG Open Lima"
-  title: "Organizador GDG Open Lima, Agile"
-  bio: "Miembro del GDG Open Lima"
-  thumbnailUrl: apicon_openlima.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+ArmandoPicon/posts"}
-    - {name: "twitter", link: "https://twitter.com/apiconz"}
-
-
-- 
-  id: 5
+  id: 2
   name: "Cesar"
   surname: "Alvarado"
   company: "GDG Open Lima"
-  title: "Organizador GDG Open Lima"
-  bio: "Miembro del GDG Open Lima"
-  thumbnailUrl: calvarado_openlima.jpg
+  title: ""
+  bio: '<p></p>'
+  thumbnailUrl: calvarado.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+CesarAlvaradoP/posts"}
     - {name: "twitter", link: "https://twitter.com/CesarAlvaradoP"}
 
 
+- 
+  id: 3
+  name: "Melissa"
+  surname: "Gave"
+  company: "GDG Women Lima"
+  title: ""
+  bio: ""
+  thumbnailUrl: mgave.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MelissaGave/posts"}
+    - {name: "twitter", link: "https://twitter.com/apiconz"}
+
 
 - 
-  id: 6
+  id: 4
+  name: "Ronald"
+  surname: "Guillen"
+  company: "Neo Consulting"
+  title: ""
+  bio: ""
+  thumbnailUrl: rguillen.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MelissaGave/posts"}
+    - {name: "twitter", link: "https://twitter.com/apiconz"}
+
+
+- 
+  id: 5
   name: "Julio"
   surname: "Lopez"
   company: "GDG Open Lima"
   title: "Organizador GDG Open Lima"
-  bio: "Miembro del GDG Open Lima"
-  thumbnailUrl: jlopez_openlima.jpg
+  bio: ""
+  thumbnailUrl: jlopez.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JulioLopezMontalvo/posts"}
+    - {name: "twitter", link: "https://twitter.com/TheBlasfem"}
+
+
+- 
+  id: 6
+  name: "Zig"
+  surname: "Mandel"
+  company: "Google Developer Expert"
+  title: ""
+  bio: ""
+  thumbnailUrl: zmandel.png
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+JulioLopezMontalvo/posts"}
@@ -84,29 +88,128 @@
 
 - 
   id: 7
-  name: "Nathaly"
-  surname: "Alarcon"
-  company: "GDG Women Lima"
-  title: "Organizador GDG Women Lima"
-  bio: "Miembro del GDG Women Lima"
-  thumbnailUrl: nataly_gdgwlima.jpg
+  name: "Eduardo"
+  surname: "Medina"
+  company: "GDG Lima "
+  title: ""
+  bio: ""
+  thumbnailUrl: emedina.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+NathalyAlarconTorrico/posts"}
-    - {name: "twitter", link: "https://twitter.com/NathalyAlarconT"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+EduardoJoseMedinaAlfaro/posts"}
+    - {name: "twitter", link: "https://twitter.com/eduardomedina"}
+
 
 
 
 - 
   id: 8
-  name: "Melissa"
-  surname: "Gave"
-  company: "GDG Women Lima"
-  title: "Organizador GDG Women Lima"
-  bio: "Miembro del GDG Women Lima"
-  thumbnailUrl: mgave_gdgwlima.jpg
+  name: "German"
+  surname: "Medina"
+  company: "GDG Lima"
+  title: ""
+  bio: ""
+  thumbnailUrl: gmedina.png
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MelissaGave/posts"}
+    - {name: "google-plus", link: "https://plus.google.com/+JulioLopezMontalvo/posts"}
+    - {name: "twitter", link: "https://twitter.com/TheBlasfem"}
+
+
+- 
+  id: 9
+  name: "Armando"
+  surname: "Picon"
+  company: "GDG Open Lima"
+  title: ""
+  bio: "<p></p>"
+  thumbnailUrl: apicon.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+ArmandoPicon/posts"}
     - {name: "twitter", link: "https://twitter.com/apiconz"}
+
+
+- 
+  id: 10
+  name: "Hernan"
+  surname: "Quintana"
+  company: ""
+  title: ""
+  bio: "<p></p>"
+  thumbnailUrl: hquintana.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+EduardoJoseMedinaAlfaro/posts"}
+    - {name: "twitter", link: "https://twitter.com/eduardomedina"}
+
+
+- 
+  id: 11
+  name: "Romero"
+  surname: "Orlando"
+  company: ""
+  title: ""
+  bio: "<p></p>"
+  thumbnailUrl: oromero.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+EduardoJoseMedinaAlfaro/posts"}
+    - {name: "twitter", link: "https://twitter.com/eduardomedina"}
+
+- 
+  id: 12
+  name: "Sanchez"
+  surname: "Rolly"
+  company: ""
+  title: ""
+  bio: "<p></p>"
+  thumbnailUrl: rsanchez.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+EduardoJoseMedinaAlfaro/posts"}
+    - {name: "twitter", link: "https://twitter.com/eduardomedina"}
+
+
+
+- 
+  id: 13
+  name: "Hansy"
+  surname: "Schmitt"
+  company: "GDG  Lima"
+  title: ""
+  bio: ""
+  thumbnailUrl: hschmitt.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+ArmandoPicon/posts"}
+    - {name: "twitter", link: "https://twitter.com/apiconz"}
+
+
+- 
+  id: 14
+  name: "Urbina"
+  surname: "Diego"
+  company: "GDG  Lima"
+  title: ""
+  bio: ""
+  thumbnailUrl: durbina.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+CesarAlvaradoP/posts"}
+    - {name: "twitter", link: "https://twitter.com/CesarAlvaradoP"}
+
+
+- 
+  id: 15
+  name: "Milton"
+  surname: "Yarleque"
+  company: "GDG Lima"
+  title: ""
+  bio: ""
+  thumbnailUrl: myarleque.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+CesarAlvaradoP/posts"}
+    - {name: "twitter", link: "https://twitter.com/CesarAlvaradoP"}
 
