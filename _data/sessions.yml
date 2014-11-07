@@ -29,7 +29,7 @@
 
   id: 001
   title: "Automatizando proyectos con Gradle"
-  description: "Automatizando proyectos con Gradle"
+  description: "Automatizando proyectos con Gradle."
   subtype: presentation
   speakers: [3]
   language: es
@@ -37,7 +37,7 @@
 -
   id: 002
   title: "Desarrollo de Web Components con Polymer"
-  description: "Desarrollo de Web Components con Polymer"
+  description: "Desarrollo de Web Components con Polymer."
   subtype: presentation
   speakers: [10]
   language: es
@@ -45,7 +45,7 @@
 -
   id: 003
   title: "WordPress + App Engine"
-  description: "Introducción a WordPress y su potencial de uso con App Engine"
+  description: "Introducción a WordPress y su potencial de uso con App Engine."
   subtype: presentation
   speakers: [4]
   language: es
@@ -61,8 +61,8 @@
 
 -
   id: 005
-  title: "Haciendo juegos en scratch con cristhina "
-  description: "Desarrollo de Web Components con Polymer"
+  title: "Haciendo juegos en scratch con cristhina"
+  description: "Desarrollo de Web Components con Polymer."
   subtype: presentation
   speakers: [23]
   language: es
@@ -72,7 +72,7 @@
 -
   id: 006
   title: "Experimeintando el lado malvado de Google Compute Engine"
-  description: "Experimeintando el lado malvado de Google Compute Engine"
+  description: "Experimeintando el lado malvado de Google Compute Engine."
   subtype: presentation
   speakers: [18]
   language: es
@@ -81,7 +81,7 @@
 -
   id: 007
   title: "Desarrollo basado en URLs"
-  description: "Notas desde el frente de batalla entre las aplicaciones web y las aplicaciones nativas"
+  description: "Notas desde el frente de batalla entre las aplicaciones web y las aplicaciones nativas."
   subtype: presentation
   speakers: [9]
   language: es
@@ -91,7 +91,7 @@
 -
   id: 008
   title: "Conexiones remotas en Android usando Volley"
-  description: "“Veremos unos ejemplos de còmo utilizar volley para conexiones remotas "
+  description: "Veremos unos ejemplos de cómo utilizar volley para conexiones remotas."
   subtype: presentation
   speakers: [12]
   language: es
@@ -100,7 +100,7 @@
 -
   id: 009
   title: "Creative Women to lead the technology industry"
-  description: "“WomenTechmakers tiene como objetivo aumentar lel numero de  mujeres innovadoras líderes en tecnología e inspirar a otros a unirse al campo"
+  description: "WomenTechmakers tiene como objetivo aumentar lel numero de  mujeres innovadoras líderes en tecnología e inspirar a otros a unirse al campo."
   subtype: presentation
   speakers: [5]
   language: es
@@ -110,7 +110,7 @@
 -
   id: 010
   title: " Quick Start Guide: Ruby on Rails app under Google Compute Engine"
-  description: "Procedimientos básicos para levantar una app en ruby on rails en una"
+  description: "Procedimientos básicos para levantar una app en ruby on rails en una VM Instance de Google Compute Engine."
   subtype: presentation
   speakers: [22]
   language: es
@@ -119,7 +119,7 @@
 -
   id: 011
   title: "Angular JS Modular"
-  description: "Angular JS Modular"
+  description: "Angular JS Modular."
   subtype: presentation
   speakers: [17]
   language: es
@@ -139,7 +139,7 @@
 -
   id: 013
   title: "Mobile App Analytics"
-  description: "Resumen GA Summit"
+  description: "Resumen GA Summit."
   subtype: presentation
   speakers: [6]
   language: es
@@ -159,7 +159,7 @@
 -
   id: 015
   title: "Como correr una aplicacion android en el navegador Chrome"
-  description: "Como correr una aplicacion android en el navegador Chrome"
+  description: "Como correr una aplicacion android en el navegador Chrome."
   subtype: presentation
   speakers: [13]
   language: es
@@ -168,7 +168,7 @@
 -
   id: 016
   title: "Seguridad en los web services y más yerbas"
-  description: "Se veran algunas vulnerabilidades en los servicios web y la forma de asegurarlo"
+  description: "Se verán algunas vulnerabilidades en los servicios web y la forma de asegurarlo."
   subtype: presentation
   speakers: [19]
   language: es
@@ -178,7 +178,7 @@
 -
   id: 017
   title: "Android Wear"
-  description: " ¿ Qué es Android Wear ? Y como funciona en un reloj inteligente .Un vistazo al SDK."
+  description: "¿Qué es Android Wear? Y cómo funciona en un reloj inteligente. Un vistazo al SDK."
   subtype: presentation
   speakers: [25]
   language: es
@@ -188,8 +188,8 @@
 
 -
   id: 018
-  title: "Desarrollando una app Python sobre AppEngine "
-  description: "Desarrollando una app Python sobre AppEngine"
+  title: "Desarrollando una app Python sobre AppEngine"
+  description: "Desarrollando una app Python sobre AppEngine."
   subtype: presentation
   speakers: [21]
   language: es
@@ -209,7 +209,7 @@
 -
   id: 020
   title: "Consumo de Rest Services con Retrofit en Android"
-  description: "Consumo de Rest Services con Retrofit en Android"
+  description: "Consumo de Rest Services con Retrofit en Android."
   subtype: presentation
   speakers: [26]
   language: es
@@ -218,7 +218,7 @@
 -
   id: 021
   title: "Endpoints en Java - GAE"
-  description: "Endpoints en Java - GAE"
+  description: "Endpoints en Java - GAE."
   subtype: presentation
   speakers: [2]
   language: es
@@ -228,7 +228,7 @@
 -
   id: 022
   title: "Extensiones en Chrome"
-  description: "Extensiones en Chrome"
+  description: "Extensiones en Chrome."
   subtype: presentation
   speakers: [11]
   language: es
