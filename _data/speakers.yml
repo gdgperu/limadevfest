@@ -107,10 +107,10 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: jlajara.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+JuanLaJara/posts"}
     - {name: "twitter", link: ""}
 
 
@@ -355,22 +355,10 @@
   company: ""
   title: ""
   bio: "Especialista de Aplicaciones Móviles. Experiencia en el desarrollo de aplicaciones móviles e integraciones con sistemas transaccionales."
-  thumbnailUrl: 
+  thumbnailUrl: mzegarra.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/105451259464190270795/posts"}
     - {name: "twitter", link: ""}
 
 
-- 
-  id: 27
-  name: "No"
-  surname: "Disponible"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: false
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}

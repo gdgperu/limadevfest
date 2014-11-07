@@ -29,7 +29,7 @@
 
   id: 001
   title: "Automatizando proyectos con Gradle"
-  description: "Automatizando proyectos con Gradle"
+  description: "A estas alturas ya debes haber escuchado sobre automatizacion para el desarrollo de software (y espero que lo apliques en tus proyectos) tanto si lo has hecho como no, esta sesion te interesara daremos un pequeño paseo sobre la automatizacion en el proceso de desarrollo (ciclo de vida, testing, integracion continua, entrega continua) y daremos una revision del uso de Gradle una herramienta relativamente nueva con bastante aceptacion entre proyectos tan grandes como Spring Framework, Groovy, Hibernate, etc"
   subtype: presentation
   speakers: [3]
   language: es
@@ -71,8 +71,8 @@
 
 -
   id: 006
-  title: "Experimeintando el lado malvado de Google Compute Engine"
-  description: "Experimeintando el lado malvado de Google Compute Engine"
+  title: "Experimentando el lado malvado de Google Compute Engine"
+  description: "Experimentando el lado malvado de Google Compute Engine"
   subtype: presentation
   speakers: [18]
   language: es
@@ -167,8 +167,8 @@
 
 -
   id: 016
-  title: "Seguridad en los web services y más yerbas"
-  description: "Se veran algunas vulnerabilidades en los servicios web y la forma de asegurarlo"
+  title: "[IN]Seguridad en los web services y más yerbas"
+  description: "Se verán algunas vulnerabilidades en los servicios web y la forma de asegurarlo"
   subtype: presentation
   speakers: [19]
   language: es
@@ -217,8 +217,8 @@
 
 -
   id: 021
-  title: "Endpoints en Java - GAE"
-  description: "Endpoints en Java - GAE"
+  title: "El perfecto BackEnd en la nube -Java Endpoints - Golgle App Engine"
+  description: "El perfecto BackEnd en la nube -Java Endpoints - Golgle App Engine"
   subtype: presentation
   speakers: [2]
   language: es
@@ -237,9 +237,9 @@
 
 -
   id: 023
-  title: "No hay session"
-  description: ""
+  title: "Bienvenidos a Polymer y la Revolución de los Componentes Web"
+  description: " Un vistazo a la nueva era que comienza con los componentes web y la alternativa de Google frente a esto: Polymer"
   subtype: presentation
-  speakers: [26]
+  speakers: [14]
   language: es
   complexity: ""

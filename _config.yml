@@ -33,7 +33,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Expositores"}
  - {permalink: "/schedule/", text: "Agenda"}
 rightNavigationButtons:
- - {link: "http://goo.gl/TywaOz", text: "Obten tu entrada"}
+ - {link: "http://goo.gl/zFEg3u", text: "Participa en modo fiesta en G+"}
 
 
 # Hero Block
@@ -44,6 +44,8 @@ typeoutTextValues: '"", "Ir al LimaDevFest", "Obtener una entrada"'
 typeoutFallback: "Season"
 heroButtons:
  - {permalink: "/#tickets", text: "Obten tu entrada"}
+ - {link: "http://goo.gl/zFEg3u", text: "Interactua en G+"}
+
 
 # About Block
 aboutTitle: "Acerca Lima DevFest"
@@ -56,7 +58,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "10", specialCharacter: "+", info: "horas", detail: "de tecnología google"}
  - {count: "10", specialCharacter: "+", info: "expositores", detail: "de diferentes ciudades"}
- - {count: "2", specialCharacter: "", info: "sesiones", detail: "en paralelo"}
+ - {count: "3", specialCharacter: "", info: "sesiones", detail: "en paralelo"}
 
 # Latest News Block
 latestNewsTitle: "Ultimas novedades"
@@ -83,7 +85,7 @@ eventPostalCode: "79000"
 eventAddressCountry: "Lima"
 eventStartTime: "2014-11-08T08:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-11-08T17:00"
+eventEndTime: "2014-11-08T18:00"
 eventPlaceCoordinates: "-12.132417, -76.97978760000001"
 mapCenterCoordinates: "-12.132417, -76.97978760000001"
 mapMobileCenterCoordinates: "-12.132417, -76.97978760000001"
@@ -102,6 +104,7 @@ venueFeatures: ["3 salones", "", ""]
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: ¡Interactúa con nosotros!
 twitterHashTag: "ldf14"
+
 
 # Partners Block
 organizersTitle: "Organizers"
