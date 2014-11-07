@@ -1,82 +1,245 @@
 -
-  id: 307
-  title: "Coffee Break"
+  id: 212
+  title: "Registro de asistentes"
   place: "Hall"
   service: true
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 303
+  title: "Cierre del evento"
+  place: "Blue room"
   service: true
 -
-  id: 001
-  title: "Android L"
-  description: "Android L , nuevo sistema operativo con las nuevas caracteristicas de material design"
-  subtype: presentation
-  speakers: [2]
-  language: es
-  complexity: "Intermediate"
+  id: 307
+  title: "Break"
+  place: "Hall"
+  service: true
 -
-  id: 002
-  title: "Mi primera applicacion Google App Engine"
-  description: "Conoces Google App Engine ? Aprende con nosotros"
-  subtype: workshop
+  id: 408
+  title: ""
+  place: "Hall"
+  service: true
+
+-
+  id: 410
+  title: "No hay conferencia"
+  place: "Hall"
+  service: true
+
+-
+
+  id: 001
+  title: "Automatizando proyectos con Gradle"
+  description: "Automatizando proyectos con Gradle"
+  subtype: presentation
   speakers: [3]
   language: es
-  complexity: "Beginner"
+  complexity: "a"
 -
-  id: 003
-  title: "Quick start Ruby on Rail app sobre Google Compute Engine "
-  description: "Quick start Ruby on Rail app sobre Google Compute Engine "
-  subtype: presentation
-  speakers: [1]
-  language: es
-  complexity: "Intermediate"
--
-  id: 004
-  title: "Women techmakers:creative women to lead the technology industry "
-  description: "Women techmakers:creative women to lead the technology industry"
-  subtype: presentation
-  speakers: [8]
-  language: es
-  complexity: "Intermediate"
-
--
-  id: 005
-  title: "Desarrollo de Web Components con Polymer "
+  id: 002
+  title: "Desarrollo de Web Components con Polymer"
   description: "Desarrollo de Web Components con Polymer"
   subtype: presentation
-  speakers: [6]
+  speakers: [10]
   language: es
-  complexity: "Intermediate"
-
+  complexity: ""
 -
-  id: 006
-  title: "GAE "
-  description: "GAE "
+  id: 003
+  title: "WordPress + App Engine"
+  description: "Introducción a WordPress y su potencial de uso con App Engine"
   subtype: presentation
   speakers: [4]
   language: es
-  complexity: "Intermediate"
+  complexity: ""
+-
+  id: 004
+  title: "Cardboard: Una ventana al mundo virtual"
+  description: "Getting started sobre como funciona un cardboard y su potencial para el desarrollo de nuevas apps."
+  subtype: presentation
+  speakers: [8]
+  language: es
+  complexity: ""
+
+-
+  id: 005
+  title: "Haciendo juegos en scratch con cristhina "
+  description: "Desarrollo de Web Components con Polymer"
+  subtype: presentation
+  speakers: [23]
+  language: es
+  complexity: "Taller de introducción a la programación de un Juego usando Scratch, orientado a jóvenes y adultos, con el objetivo que los asistentes conozcan la manera de crear un videojuego por ellos mismos de manera muy sencilla, aprendiendo los pasos de Scratch."
+
+
+-
+  id: 006
+  title: "Experimeintando el lado malvado de Google Compute Engine"
+  description: "Experimeintando el lado malvado de Google Compute Engine"
+  subtype: presentation
+  speakers: [18]
+  language: es
+  complexity: ""
 
 -
   id: 007
-  title: "EndPoints con Java ( Google App Engine )  "
-  description: "EndPoints con Java ( Google App Engine )  "
+  title: "Desarrollo basado en URLs"
+  description: "Notas desde el frente de batalla entre las aplicaciones web y las aplicaciones nativas"
   subtype: presentation
-  speakers: [5]
+  speakers: [9]
   language: es
-  complexity: "Intermediate"
+  complexity: ""
 
 
 -
   id: 008
-  title: "Material Design "
-  description: "Material Design "
+  title: "Conexiones remotas en Android usando Volley"
+  description: "“Veremos unos ejemplos de còmo utilizar volley para conexiones remotas "
   subtype: presentation
-  speakers: [7]
+  speakers: [12]
   language: es
-  complexity: "Intermediate"
+  complexity: ""
+
+-
+  id: 009
+  title: "Creative Women to lead the technology industry"
+  description: "“WomenTechmakers tiene como objetivo aumentar lel numero de  mujeres innovadoras líderes en tecnología e inspirar a otros a unirse al campo"
+  subtype: presentation
+  speakers: [5]
+  language: es
+  complexity: ""
+
+
+-
+  id: 010
+  title: " Quick Start Guide: Ruby on Rails app under Google Compute Engine"
+  description: "Procedimientos básicos para levantar una app en ruby on rails en una"
+  subtype: presentation
+  speakers: [22]
+  language: es
+  complexity: ""
+
+-
+  id: 011
+  title: "Angular JS Modular"
+  description: "Angular JS Modular"
+  subtype: presentation
+  speakers: [17]
+  language: es
+  complexity: ""
+
+
+-
+  id: 012
+  title: "GAE"
+  description: "GAE"
+  subtype: presentation
+  speakers: [15]
+  language: es
+  complexity: ""
+
+
+-
+  id: 013
+  title: "Mobile App Analytics"
+  description: "Resumen GA Summit"
+  subtype: presentation
+  speakers: [6]
+  language: es
+  complexity: ""
+
+
+-
+  id: 014
+  title: "Utilizando la nube. Android con Parse"
+  description: "El tema trata de las posibilidades que nos da la utilización de las tecnologías de la nube en el desarrollo de aplicaciones móviles. Con estas plataformas, el tiempo y costo de desarrollar una app móvil se ve reducido drásticamente. En esta charla se pondrá énfasis en el integración de Parse con Android."
+  subtype: presentation
+  speakers: [16]
+  language: es
+  complexity: ""
+
+
+-
+  id: 015
+  title: "Como correr una aplicacion android en el navegador Chrome"
+  description: "Como correr una aplicacion android en el navegador Chrome"
+  subtype: presentation
+  speakers: [13]
+  language: es
+  complexity: ""
+
+-
+  id: 016
+  title: "Seguridad en los web services y más yerbas"
+  description: "Se veran algunas vulnerabilidades en los servicios web y la forma de asegurarlo"
+  subtype: presentation
+  speakers: [19]
+  language: es
+  complexity: ""
+
+
+-
+  id: 017
+  title: "Android Wear"
+  description: " ¿ Qué es Android Wear ? Y como funciona en un reloj inteligente .Un vistazo al SDK."
+  subtype: presentation
+  speakers: [25]
+  language: es
+  complexity: ""
 
 
 
+-
+  id: 018
+  title: "Desarrollando una app Python sobre AppEngine "
+  description: "Desarrollando una app Python sobre AppEngine"
+  subtype: presentation
+  speakers: [21]
+  language: es
+  complexity: ""
+
+
+-
+  id: 019
+  title: "Material Desing"
+  description: "Exploraremos los principios,lineamientos y aplicación del Lenguaje de Programación Visual creado por Google orientado a la Web y a dispositivos móviles."
+  subtype: presentation
+  speakers: [1,24]
+  language: es
+  complexity: ""
+
+
+-
+  id: 020
+  title: "Consumo de Rest Services con Retrofit en Android"
+  description: "Consumo de Rest Services con Retrofit en Android"
+  subtype: presentation
+  speakers: [26]
+  language: es
+  complexity: ""
+
+-
+  id: 021
+  title: "Endpoints en Java - GAE"
+  description: "Endpoints en Java - GAE"
+  subtype: presentation
+  speakers: [2]
+  language: es
+  complexity: ""
+
+
+-
+  id: 022
+  title: "Extensiones en Chrome"
+  description: "Extensiones en Chrome"
+  subtype: presentation
+  speakers: [11]
+  language: es
+  complexity: ""
+
+
+-
+  id: 023
+  title: "No hay session"
+  description: ""
+  subtype: presentation
+  speakers: [26]
+  language: es
+  complexity: ""
