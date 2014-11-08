@@ -61,13 +61,12 @@
 
 -
   id: 005
-  title: "Haciendo juegos en scratch con cristhina "
-  description: "Desarrollo de Web Components con Polymer"
+  title: "Haciendo juegos en scratch con Cristhina"
+  description: "Taller de introducción a la programación de un Juego usando Scratch, orientado a jóvenes y adultos, con el objetivo que los asistentes conozcan la manera de crear un videojuego por ellos mismos de manera muy sencilla, aprendiendo los pasos de Scratch."
   subtype: presentation
   speakers: [23]
   language: es
-  complexity: "Taller de introducción a la programación de un Juego usando Scratch, orientado a jóvenes y adultos, con el objetivo que los asistentes conozcan la manera de crear un videojuego por ellos mismos de manera muy sencilla, aprendiendo los pasos de Scratch."
-
+  complexity: ""
 
 -
   id: 006
@@ -208,8 +207,8 @@
 
 -
   id: 020
-  title: "Consumo de Rest Services con Retrofit en Android"
-  description: "Consumo de Rest Services con Retrofit en Android"
+  title: "Mobile Messaging - M2M Picando con Mosquitto"
+  description: "Mobile Messaging - M2M Picando con Mosquitto"
   subtype: presentation
   speakers: [26]
   language: es
